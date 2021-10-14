@@ -1,4 +1,4 @@
-## Pseudo-Cl shear covariance: Python code used in [paper tbd]
+## Pseudo-Cl shear covariance: Python code used in [paper in prep.]
 
 ### Documentation
 
