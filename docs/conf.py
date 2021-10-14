@@ -13,7 +13,8 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../shear_pcl_cov'))
-autodoc_mock_imports = ['healpy', 'matplotlib', 'numpy', 'scipy', 'pandas', 'pymaster', 'skimage']
+autodoc_mock_imports = ['gaussian_cl_likelihood', 'healpy', 'matplotlib', 'numpy', 'scipy', 'pandas', 'pymaster',
+                        'skimage']
 
 
 # -- Project information -----------------------------------------------------
