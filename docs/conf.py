@@ -13,7 +13,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../shear_pcl_cov'))
-autodoc_mock_imports = ['pymaster']
+autodoc_mock_imports = ['numpy', 'healpy', 'pymaster']
 
 
 # -- Project information -----------------------------------------------------
