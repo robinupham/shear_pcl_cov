@@ -2,7 +2,7 @@
 
 ### Documentation
 
-Documentation will be available at [Read the Docs](https://shear-pcl-cov.readthedocs.io/), including:
+Documentation is available at [Read the Docs](https://shear-pcl-cov.readthedocs.io/), including:
 
 * Steps to produce all figures from the paper.
 
