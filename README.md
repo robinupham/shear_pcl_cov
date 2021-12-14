@@ -1,4 +1,6 @@
-## Pseudo-Cl shear covariance: Python code used in [paper in prep.]
+## Pseudo-Cl shear covariance: Python code used in "*Euclid*: Covariance of weak lensing pseudo-Cl estimates. Calculation, comparison to simulations, and dependence on survey geometry"
+
+For the adapted version of CosmoCov used to calculate the non-Gaussian covariance, see [CosmoCov_ClCov](https://github.com/robinupham/CosmoCov_ClCov).
 
 ### Documentation
 
